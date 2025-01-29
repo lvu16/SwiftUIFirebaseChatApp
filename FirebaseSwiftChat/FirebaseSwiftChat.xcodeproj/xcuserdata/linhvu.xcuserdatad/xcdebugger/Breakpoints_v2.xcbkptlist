@@ -14,31 +14,101 @@
             filePath = "FirebaseSwiftChat/LoginView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "29"
-            endingLineNumber = "29"
-            landmarkName = "LoginView"
-            landmarkType = "14">
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "unknown"
+            landmarkType = "0">
             <Locations>
                <Location
-                  uuid = "BF1FAA4C-39AB-447B-8561-B26E4DA5EB24 - 2fd782521f5715a3"
+                  uuid = "BF1FAA4C-39AB-447B-8561-B26E4DA5EB24 - 823fda6527e065c2"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "FirebaseSwiftChat.LoginView.init() -&gt; FirebaseSwiftChat.LoginView"
+                  symbolName = "property wrapper backing initializer of FirebaseSwiftChat.LoginView.isLoginMode : Swift.Bool"
                   moduleName = "FirebaseSwiftChat.debug.dylib"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/linhvu/Desktop/Projects/SwiftUIFirebaseChatApp/FirebaseSwiftChat/%3Cstdin%3E"
+                  urlString = "file:///Users/linhvu/Desktop/Projects/SwiftUIFirebaseChatApp/FirebaseSwiftChat/FirebaseSwiftChat/LoginView.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "0"
                   endingLineNumber = "0">
                </Location>
                <Location
-                  uuid = "BF1FAA4C-39AB-447B-8561-B26E4DA5EB24 - 3768c77abd74775a"
+                  uuid = "BF1FAA4C-39AB-447B-8561-B26E4DA5EB24 - 46c4b3fd5926f0ec"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "FirebaseSwiftChat.LoginView.init(isLoginMode: Swift.Bool, email: Swift.String, password: Swift.String, loginStatusMessage: Swift.String) -&gt; FirebaseSwiftChat.LoginView"
+                  symbolName = "FirebaseSwiftChat.LoginView.isLoginMode.getter : Swift.Bool"
+                  moduleName = "FirebaseSwiftChat.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/linhvu/Desktop/Projects/SwiftUIFirebaseChatApp/FirebaseSwiftChat/FirebaseSwiftChat/LoginView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "BF1FAA4C-39AB-447B-8561-B26E4DA5EB24 - c1fb15a8f1f204bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FirebaseSwiftChat.LoginView.isLoginMode.setter : Swift.Bool"
+                  moduleName = "FirebaseSwiftChat.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/linhvu/Desktop/Projects/SwiftUIFirebaseChatApp/FirebaseSwiftChat/FirebaseSwiftChat/LoginView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33">
+               </Location>
+               <Location
+                  uuid = "BF1FAA4C-39AB-447B-8561-B26E4DA5EB24 - 90569b1d10c70aac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FirebaseSwiftChat.LoginView.isLoginMode.modify : Swift.Bool"
+                  moduleName = "FirebaseSwiftChat.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/linhvu/Desktop/Projects/SwiftUIFirebaseChatApp/FirebaseSwiftChat/FirebaseSwiftChat/LoginView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33">
+               </Location>
+               <Location
+                  uuid = "BF1FAA4C-39AB-447B-8561-B26E4DA5EB24 - 111678bce86c5c97"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FirebaseSwiftChat.LoginView.isLoginMode.modify : Swift.Bool with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "FirebaseSwiftChat.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "BF1FAA4C-39AB-447B-8561-B26E4DA5EB24 - 51ba9983bbdfbf7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FirebaseSwiftChat.LoginView.$isLoginMode.getter : SwiftUI.Binding&lt;Swift.Bool&gt;"
+                  moduleName = "FirebaseSwiftChat.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/linhvu/Desktop/Projects/SwiftUIFirebaseChatApp/FirebaseSwiftChat/FirebaseSwiftChat/LoginView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33">
+               </Location>
+               <Location
+                  uuid = "BF1FAA4C-39AB-447B-8561-B26E4DA5EB24 - 1f9a2fb3a128163d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 0 of FirebaseSwiftChat.LoginView.init(isLoginMode: Swift.Bool, email: Swift.String, password: Swift.String, shouldShowImagePicker: Swift.Bool, image: Swift.Optional&lt;__C.UIImage&gt;, loginStatusMessage: Swift.String) -&gt; FirebaseSwiftChat.LoginView"
                   moduleName = "FirebaseSwiftChat.debug.dylib"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/linhvu/Desktop/Projects/SwiftUIFirebaseChatApp/FirebaseSwiftChat/FirebaseSwiftChat/LoginView.swift"
