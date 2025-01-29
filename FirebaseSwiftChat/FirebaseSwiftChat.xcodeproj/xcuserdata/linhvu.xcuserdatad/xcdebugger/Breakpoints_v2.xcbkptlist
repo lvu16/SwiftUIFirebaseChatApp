@@ -14,10 +14,40 @@
             filePath = "FirebaseSwiftChat/LoginView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "28"
-            endingLineNumber = "28"
-            landmarkName = "unknown"
-            landmarkType = "0">
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "LoginView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "BF1FAA4C-39AB-447B-8561-B26E4DA5EB24 - 2fd782521f5715a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FirebaseSwiftChat.LoginView.init() -&gt; FirebaseSwiftChat.LoginView"
+                  moduleName = "FirebaseSwiftChat.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/linhvu/Desktop/Projects/SwiftUIFirebaseChatApp/FirebaseSwiftChat/%3Cstdin%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "BF1FAA4C-39AB-447B-8561-B26E4DA5EB24 - 3768c77abd74775a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FirebaseSwiftChat.LoginView.init(isLoginMode: Swift.Bool, email: Swift.String, password: Swift.String, loginStatusMessage: Swift.String) -&gt; FirebaseSwiftChat.LoginView"
+                  moduleName = "FirebaseSwiftChat.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/linhvu/Desktop/Projects/SwiftUIFirebaseChatApp/FirebaseSwiftChat/FirebaseSwiftChat/LoginView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
